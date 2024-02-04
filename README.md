@@ -13,7 +13,7 @@
 <br>
 
 <br>
-<div>
+<div width:= "100%">
 
 <br>
 
