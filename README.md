@@ -12,7 +12,7 @@
 <br>
 <br>
 
-- GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
+<br>- GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
 - A passionate Self-taught developer.
 - Currently learning Web Development by My Self.
 - I’m currently open a new job opportunity.
