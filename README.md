@@ -15,7 +15,7 @@
 
 <br>
 
-<div width:= "100%">
+<div align="right" width:= "100%">
 
 <br>
 
