@@ -17,7 +17,7 @@
 
 <br>
 
-<ul width:= "100%">
+<ul width= "100%">
 
 <li>GRADUATED IN INFORMATION SYSTEMS ENGINEERING.</li>
 <li>A passionate Self-taught developer.</li>
