@@ -15,15 +15,15 @@
 
 <br>
 
-<div align="right" width:= "100%">
-
 <br>
 
-- GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
-- A passionate Self-taught developer.
-- Currently learning Web Development by My Self.
-- I’m currently open a new job opportunity.
-</div>
+<ul width:= "100%">
+
+<li>GRADUATED IN INFORMATION SYSTEMS ENGINEERING.</li>
+<li>A passionate Self-taught developer.</li>
+<li>Currently learning Web Development by My Self.</li>
+<li>I’m currently open a new job opportunity.</li>
+</ul>
 <br><br>
 
 <img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif"><br><br>
