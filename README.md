@@ -6,10 +6,11 @@
 	
 ## 💫 **About me**
 
-<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px><p></p></picture>
+<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px>
+<img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif" width = 250px></picture>
 
 <br>
-<img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif"  width = 250px>
+
 
 
 <div align= "left" clear= both>
