@@ -10,7 +10,7 @@
 
 <br>
 
-<div align= "left" >
+<div align= "left" clear= both>
   
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
