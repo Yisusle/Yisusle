@@ -6,29 +6,21 @@
 	
 ## 💫 **About me**
 
+<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px></picture>
 
-<ul width= 100%>
+<br>
 
+<p>
+<ul dir= ltr opacity: 0>
+	
+<hr visibility: hidden>
+	
 <li>GRADUATED IN INFORMATION SYSTEMS ENGINEERING.</li>
 <li>A passionate Self-taught developer.</li>
 <li>Currently learning Web Development by My Self.</li>
 <li>I’m currently open a new job opportunity.</li>
 </ul>
-
-
-
-<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px></picture>
-
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-
+</p>
 
 <br><br>
 
