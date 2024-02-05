@@ -12,9 +12,6 @@
 
 <p>
 
-	
-<hr visibility: hidden>
-
   &nbsp;
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
