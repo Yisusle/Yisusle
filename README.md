@@ -9,14 +9,14 @@
 <picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px></picture>
 
 <br>
-
-<div align= "left">
+	
+<div align= "left" width = 20% >
   
-  &nbsp;
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
  - Currently learning Web Development by My Self.
  - I’m currently open a new job opportunity.
+   
 </div>
 
 
