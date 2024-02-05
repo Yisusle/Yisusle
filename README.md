@@ -7,7 +7,7 @@
 ## 💫 **About me**
 
 <picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px>
-<img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif" width = 300px></picture>
+<img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif" width = 70%></picture>
 
 <br>
 
