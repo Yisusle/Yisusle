@@ -6,12 +6,11 @@
 	
 ## 💫 **About me**
 
-<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px> 
-<img align="right" src="#"  width = 250px > </picture>
+<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px></picture>
 
 <br>
-	
-<div align= "left" width = 20% >
+<hr height= 0px >	
+<div align= "left">
   
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
@@ -45,6 +44,7 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Json](https://img.shields.io/badge/Json-black?style=for-the-badge&logo=JSON%20web%20tokens)
     ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
