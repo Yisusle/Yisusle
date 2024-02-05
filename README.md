@@ -6,11 +6,11 @@
 	
 ## 💫 **About me**
 
-<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px><p></p></picture>
 
 <br>
-<hr height= 0px >	
-<div align= "left">
+
+<div align= "left" >
   
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
