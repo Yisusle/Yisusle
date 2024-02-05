@@ -10,6 +10,8 @@
 
 <br>
 
+<hr>
+
 <div align= "left" clear= both>
   
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
