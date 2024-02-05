@@ -11,15 +11,16 @@
 <br>
 
 <p>
-<ul dir= ltr opacity: 0>
+
 	
 <hr visibility: hidden>
-	
-<li>GRADUATED IN INFORMATION SYSTEMS ENGINEERING.</li>
-<li>A passionate Self-taught developer.</li>
-<li>Currently learning Web Development by My Self.</li>
-<li>I’m currently open a new job opportunity.</li>
-</ul>
+
+  &nbsp;
+ - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
+ - A passionate Self-taught developer.
+ - Currently learning Web Development by My Self.
+ - I’m currently open a new job opportunity.
+
 </p>
 
 <br><br>
