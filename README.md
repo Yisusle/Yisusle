@@ -7,7 +7,7 @@
 ## 💫 **About me**
 
 <picture> <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px>
-<img align="right" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" width = 25% height= "5px"></picture>
+<img src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" width = 70% height= "1px"></picture>
 
 <br>
 
