@@ -10,15 +10,20 @@
 
 <br>
 
-<p>
-
+ <p margin-top: 20px !important; >
+	 
   &nbsp;
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
  - Currently learning Web Development by My Self.
  - I’m currently open a new job opportunity.
-
+   
 </p>
+	
+  
+  
+ 
+
 
 <br><br>
 
@@ -72,8 +77,6 @@
 <br>
 
 Last Edited on: 04/02/2024
-
-
 
 <!--
 **Yisusle/Yisusle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
