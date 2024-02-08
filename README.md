@@ -9,11 +9,11 @@
  <img align="right" src="https://github.com/Yisusle/Yisusle/blob/main/img/imgDerecha.gif" width = 250px>
 <img src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" width = 40% height= "1px">
 
-<br>
+<br><br>
 
 
 
-<div align= "left" clear= both>
+<div align= "left">
   
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
  - A passionate Self-taught developer.
