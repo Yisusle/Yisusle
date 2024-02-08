@@ -75,7 +75,7 @@
 
 <br>
 
-Last Edited on: 04/02/2024
+Last Edited on: 04/02/2024  <img align= right src="https://komarev.com/ghpvc/?username=Yisusle&style=for-the-badge&color=blue" /> 
 
 <!--
 **Yisusle/Yisusle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
