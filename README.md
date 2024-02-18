@@ -54,6 +54,9 @@
 - **Softwares and Tools**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
@@ -75,7 +78,7 @@
 
 <br>
 
-Last Edited on: 04/02/2024  <img align= right src="https://komarev.com/ghpvc/?username=Yisusle&style=for-the-badge&color=blue" /> 
+Last Edited on: 18/02/2024  <img align= right src="https://komarev.com/ghpvc/?username=Yisusle&style=for-the-badge&color=blue" /> 
 
 <!--
 **Yisusle/Yisusle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
