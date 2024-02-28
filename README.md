@@ -21,8 +21,8 @@
  - I’m currently open a new job opportunity.
    
 </div>
-<hr>
- - Currently learning Angular, MongoDB, NodeJS, ExpressJS(MEAN STACK).
+
+ Currently learning Angular, MongoDB, NodeJS, ExpressJS (MEAN STACK).
 
 <br><br>
 
