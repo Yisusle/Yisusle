@@ -22,6 +22,7 @@
    
 </div>
 
+ - Currently learning Angula, MongoDB, NodeJS, ExpressJS(MEAN STACK).
 
 <br><br>
 
