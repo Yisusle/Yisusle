@@ -16,10 +16,10 @@
 <div align= "left">
   
  - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
+ - I´m Backend developer(C#, .NET, MSQL Server)
  - Currently learning Web Development by My Self.
  - A passionate Self-taught developer.
- - I’m currently open a new job opportunity.
- 
+ - I’m currently working.
    
 </div>
 
@@ -53,6 +53,10 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+    ![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+    ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+    ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-9455A4?style=for-the-badge&logo=visual-basic&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
@@ -63,7 +67,10 @@
     ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ 
 
 
 </p>
@@ -84,7 +91,7 @@
 
 <br>
 
-Last Edited on: 18/02/2024  <img align= right src="https://komarev.com/ghpvc/?username=Yisusle&style=for-the-badge&color=blue" /> 
+Last Edited on: 12/12/2024  <img align= right src="https://komarev.com/ghpvc/?username=Yisusle&style=for-the-badge&color=blue" /> 
 
 <!--
 **Yisusle/Yisusle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
