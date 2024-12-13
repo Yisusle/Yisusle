@@ -70,14 +70,14 @@
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- 
-
 
 </p>
 <img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analytics </b>
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yisusle&margin-w=15)](https://github.com/Yisusle)
 
 <div align="center">
 
