@@ -15,11 +15,12 @@
 
 <div align= "left">
   
- - GRADUATED IN INFORMATION SYSTEMS ENGINEERING.
- - I´m a backend developer focused on C#, .NET and Microsoft SQL Server.
- - Currently expanding my web development and cloud deployment skills.
- - A passionate self-taught developer.
- - I’m currently working.
+ - Information Systems Engineer focused on backend and full-stack web development.
+ - I build production-oriented REST APIs with C#, .NET, SQL Server, JWT authentication and Clean Architecture.
+ - I also develop Angular interfaces with TypeScript, Angular Material and responsive UI patterns.
+ - I work with Docker, Nginx, Kubernetes and GitHub Actions to package, test and deploy applications.
+ - I care about maintainable code, database consistency, secure authentication and reliable delivery.
+ - I am continuously learning cloud infrastructure and modern developer tooling, including Claude CLI and GitHub Copilot CLI.
    
 </div>
 
@@ -27,6 +28,25 @@
 <br><br>
 
 <img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif"><br><br>
+
+## 🚀 **Featured projects**
+<br>
+
+### [Inventory API](https://github.com/Yisusle/InventoryApi)
+
+Production-oriented inventory management REST API built with **.NET 9, C#, SQL Server, Entity Framework Core, Dapper and JWT authentication**. Includes Clean Architecture, role-based authorization, health checks, rate limiting, automated tests and Docker image publishing through GitHub Actions.
+
+### [Inventory Dashboard](https://github.com/Yisusle/Inventory-Dashboard)
+
+Angular dashboard for inventory, catalog, transactions and reporting workflows. Built with **Angular, TypeScript, Angular Material and Font Awesome**, with authentication, protected routes, responsive layouts and a production Docker/Nginx setup.
+
+**Live demo:** [inventory-dashboard-navy-one.vercel.app](https://inventory-dashboard-navy-one.vercel.app)
+
+### [Inventory Platform](https://github.com/Yisusle/inventory-platform)
+
+Infrastructure repository that orchestrates the complete solution with **Docker Compose, SQL Server, Nginx and Kubernetes manifests**. The platform was validated locally end-to-end, including API health checks and dashboard-to-API authentication.
+
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
