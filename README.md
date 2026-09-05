@@ -16,9 +16,11 @@
 <div align= "left">
   
  - Information Systems Engineer focused on backend and full-stack web development.
+ - Junior .NET Developer at Megacable, working on enterprise application modernization since July 2024.
  - I build production-oriented REST APIs with C#, .NET, SQL Server, JWT authentication and Clean Architecture.
  - I also develop Angular interfaces with TypeScript, Angular Material and responsive UI patterns.
- - I work with Docker, Nginx, Kubernetes and GitHub Actions to package, test and deploy applications.
+ - I modernize legacy VB6 applications to C#/.NET while preserving functional equivalence and operational stability.
+ - I work with Docker, Nginx, Kubernetes, Istio and GitHub Actions to package, test and deploy applications.
  - I care about maintainable code, database consistency, secure authentication and reliable delivery.
  - I am continuously learning cloud infrastructure and modern developer tooling, including Claude CLI and GitHub Copilot CLI.
    
@@ -28,6 +30,22 @@
 <br><br>
 
 <img src="https://github.com/Yisusle/Yisusle/blob/main/img/lineagif.gif"><br><br>
+
+## 💼 **Professional experience**
+
+**Junior .NET Developer — Megacable**<br>
+*July 2024 – Present · Guadalajara, Jalisco, Mexico*
+
+- Modernize enterprise legacy applications from VB6 to C#/.NET while preserving functional behavior.
+- Develop and maintain backend features using C#, .NET, SQL Server, Dapper and Entity Framework Core.
+- Improve code maintainability through refactoring, technical reviews and performance-focused changes.
+- Collaborate on Angular and TypeScript frontend modules and validate data workflows against SQL Server.
+- Work with Git, Scrum, Docker, Kubernetes, Linux and Istio across development and testing environments.
+
+**Education:** B.S. in Information Systems Engineering — Universidad Autónoma de Sinaloa, 2022<br>
+**Languages:** Spanish (native) · English (intermediate)
+
+<br>
 
 ## 🚀 **Featured projects**
 <br>
