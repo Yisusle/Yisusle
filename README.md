@@ -58,7 +58,7 @@ Production-oriented inventory management REST API built with **.NET 9, C#, SQL S
 
 Angular dashboard for inventory, catalog, transactions and reporting workflows. Built with **Angular, TypeScript, Angular Material and Font Awesome**, with authentication, protected routes, responsive layouts and a production Docker/Nginx setup.
 
-**Live demo:** [inventory-dashboard-navy-one.vercel.app](https://inventory-dashboard-navy-one.vercel.app) · **API:** [inventoryapi-rl7g.onrender.com](https://inventoryapi-rl7g.onrender.com)
+**Live demo:** [inventory-dashboard-navy-one.vercel.app](https://inventory-dashboard-navy-one.vercel.app)
 
 ### [Inventory Platform](https://github.com/Yisusle/inventory-platform)
 
