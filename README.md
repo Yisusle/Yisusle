@@ -20,7 +20,7 @@
  - I build production-oriented REST APIs with C#, .NET, SQL Server, JWT authentication and Clean Architecture.
  - I also develop Angular interfaces with TypeScript, Angular Material and responsive UI patterns.
  - I modernize legacy VB6 applications to C#/.NET while preserving functional equivalence and operational stability.
- - I work with Docker, Nginx, Kubernetes, Istio and GitHub Actions to package, test and deploy applications.
+ - I work with Docker, Nginx, Kubernetes, Istio, GitHub Actions, Azure SQL, Render and Vercel to package, test and deploy applications.
  - I care about maintainable code, database consistency, secure authentication and reliable delivery.
  - I am continuously learning cloud infrastructure and modern developer tooling, including Claude CLI and GitHub Copilot CLI.
    
@@ -52,13 +52,13 @@
 
 ### [Inventory API](https://github.com/Yisusle/InventoryApi)
 
-Production-oriented inventory management REST API built with **.NET 9, C#, SQL Server, Entity Framework Core, Dapper and JWT authentication**. Includes Clean Architecture, role-based authorization, health checks, rate limiting, automated tests and Docker image publishing through GitHub Actions.
+Production-oriented inventory management REST API built with **.NET 9, C#, SQL Server, Entity Framework Core, Dapper and JWT authentication**. Includes Clean Architecture, role-based authorization, health checks, rate limiting, automated tests and Docker image publishing through GitHub Actions. The live API runs on **Render** and connects to **Azure SQL Database**.
 
 ### [Inventory Dashboard](https://github.com/Yisusle/Inventory-Dashboard)
 
 Angular dashboard for inventory, catalog, transactions and reporting workflows. Built with **Angular, TypeScript, Angular Material and Font Awesome**, with authentication, protected routes, responsive layouts and a production Docker/Nginx setup.
 
-**Live demo:** [inventory-dashboard-navy-one.vercel.app](https://inventory-dashboard-navy-one.vercel.app)
+**Live demo:** [inventory-dashboard-navy-one.vercel.app](https://inventory-dashboard-navy-one.vercel.app) · **API:** [inventoryapi-rl7g.onrender.com](https://inventoryapi-rl7g.onrender.com)
 
 ### [Inventory Platform](https://github.com/Yisusle/inventory-platform)
 
@@ -81,6 +81,7 @@ Infrastructure repository that orchestrates the complete solution with **Docker 
     ![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+    ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
@@ -101,6 +102,8 @@ Infrastructure repository that orchestrates the complete solution with **Docker 
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
     ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
     ![Claude CLI](https://img.shields.io/badge/Claude%20CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
     ![GitHub Copilot CLI](https://img.shields.io/badge/Copilot%20CLI-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 
